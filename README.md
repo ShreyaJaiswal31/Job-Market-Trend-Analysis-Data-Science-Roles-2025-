@@ -21,12 +21,19 @@ provide actionable insights for job seekers and hiring teams.
 - Python (Pandas, NumPy)
 - Data Visualization (Matplotlib, Seaborn)
 - Jupyter Notebook
+- Power BI
 
 ## 📊 Key Insights
 - Python, SQL, and Machine Learning dominate skill requirements.
 - Senior and Lead roles offer significantly higher compensation.
 - Hybrid roles are more common than fully remote or on-site roles.
 - Technology and Finance industries lead hiring.
+
+## 📊 Power BI Dashboard
+An interactive Power BI dashboard was built to visualize job demand, skill trends,
+salary distribution, and hiring activity. The dashboard enables dynamic filtering
+by job role, industry, and work mode to support data-driven career decisions.
+
 
 ## 👩‍💻 Author
 **Shreya Jaiswal**  
